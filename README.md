@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Diaz</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 💬 Ask me about **js,react**
+- 💬 Ask me about **Javascript or React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
