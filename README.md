@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/carlos-díaz-alzate-937748233" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/carlos-díaz-alzate-937748233" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fes%2Fimg%2Ficonos-logotipos-emojis%2Fcompanias-technologicas%2Flogo-linkedin&psig=AOvVaw2yANDzcjfbz1YCSnlGf9my&ust=1668037430429000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNC7vubhn_sCFQAAAAAdAAAAABAE)" alt="www.linkedin.com/in/carlos-díaz-alzate-937748233" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
