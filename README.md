@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Diaz</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate Laravel and ReactJs developer from Colombia</h3>
 
 - 💬 Ask me about **Javascript or React**
 -  PHP, Laravel and SQL
