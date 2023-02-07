@@ -9,7 +9,7 @@
 </p> 
 <a href="https://youtube.com/@lawyercode7311" >  <img align="center" src="https://yt3.ggpht.com/ytc/AMLnZu-REMg32owErG8JSKx8JwSGFVMQnjwVDsDrBAl8nw=s900-c-k-c0x00ffffff-no-rj" alt="www.linkedin.com/in/carlos-díaz-alzate-937748233" height="30" width="40" />   </a>
 
- <img align="center" src="https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/d23741f9-40de-4ba1-9fb9-82a228c397f3.png" alt="www.linkedin.com/in/carlos-díaz-alzate-937748233" height="200" width="300" />  
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,7 +18,6 @@
 <a href="https://wakatime.com/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a" target="blank"><img align="center" src="https://wakatime.com/badge/user/b832462f-dac4-41ed-a2bc-7e2db9ae6e6a.svg" alt="www.linkedin.com/in/carlos-díaz-alzate-937748233" height="30" width="200" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdiaztl)](https://github.com/anuraghazra/github-readme-stats)
-.. image:: https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/d23741f9-40de-4ba1-9fb9-82a228c397f3.png
-    :target: https://wakatime.com/
+
     
 
