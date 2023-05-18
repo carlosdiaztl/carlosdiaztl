@@ -15,7 +15,7 @@
 
 
 
-<img align="center" src="https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/179f10e3-079c-404f-8c0b-97eed3103c38.svg" alt="Lenguajes" height="200" width="200" />
+<img align="center" src="https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/179f10e3-079c-404f-8c0b-97eed3103c38.svg" alt="Lenguajes" height="400" width="600" />
 
 <figure><embed src="https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/179f10e3-079c-404f-8c0b-97eed3103c38.svg"></embed></figure>
 
