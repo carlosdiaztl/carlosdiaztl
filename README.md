@@ -17,7 +17,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdiaztl)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/179f10e3-079c-404f-8c0b-97eed3103c38.svg"></embed></figure>
 
     
 
