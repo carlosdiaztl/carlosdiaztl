@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Diaz</h1>
 <h3 align="center">A passionate Laravel and VueJs developer from Colombia</h3>
 
-- 💬 Ask me about **Javascript or React**
+- 💬 Ask me about **Vue or React**
 -  PHP, Laravel and SQL **
 - 💬 Ask me about **React, PHP, Laravel,Vue and SQL ****
 
