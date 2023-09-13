@@ -12,6 +12,7 @@
 <h3 >Coding hours</h3>
 <a href="https://wakatime.com/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a" target="blank"><img align="center" src="https://wakatime.com/badge/user/b832462f-dac4-41ed-a2bc-7e2db9ae6e6a.svg" alt="www.linkedin.com/in/carlos-díaz-alzate-937748233" height="30" width="200" /></a> 
 
+<a href="https://wakatime.com/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a" target="blank"><img align="center" src="https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/d9355695-e92b-4f5f-9ea9-845216ef4c64.svg" alt="www.linkedin.com/in/carlos-díaz-alzate-937748233" height="30" width="200" /></a> 
 
 <figure><embed src="https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/d9355695-e92b-4f5f-9ea9-845216ef4c64.svg"></embed></figure>
 
