@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Laravel and ReactJs developer from Colombia</h3>
 
 - 💬 Ask me about **React, PHP, Laravel,Vue and SQL ****
-[![Descripción de la imagen](https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/d9355695-e92b-4f5f-9ea9-845216ef4c64.svg)](https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/d9355695-e92b-4f5f-9ea9-845216ef4c64.svg)
- width="200" y height="30"
- ![Descripción de la imagen](https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/d9355695-e92b-4f5f-9ea9-845216ef4c64.svg) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +14,10 @@
 
 
 
+
+<img align="center" src="https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/179f10e3-079c-404f-8c0b-97eed3103c38.svg" alt="Lenguajes" height="400" width="600" />
+
+<figure><embed src="https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/179f10e3-079c-404f-8c0b-97eed3103c38.svg"></embed></figure>
 
 
     
