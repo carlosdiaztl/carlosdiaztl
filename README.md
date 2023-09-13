@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Laravel and ReactJs developer from Colombia</h3>
 
 - 💬 Ask me about **React, PHP, Laravel,Vue and SQL ****
-<figure><embed src="https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/d9355695-e92b-4f5f-9ea9-845216ef4c64.svg"></embed></figure>
+![Descripción de la imagen](https://wakatime.com/share/@b832462f-dac4-41ed-a2bc-7e2db9ae6e6a/d9355695-e92b-4f5f-9ea9-845216ef4c64.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-díaz-alzate-937748233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carlos-díaz-alzate-937748233" height="30" width="40" /></a>
