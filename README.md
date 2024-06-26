@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Carlos Diaz</h1>
 <h3 align="center">A passionate Laravel and React developer from Colombia</h3>
 
-- 💬 Ask me about **Vue or React**
--  PHP, Laravel and SQL **
-- 💬 Ask me about **React, PHP, Laravel,Vue and SQL ****
+- 💬 Ask me about **React, Laravel**
+- Learning node  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
