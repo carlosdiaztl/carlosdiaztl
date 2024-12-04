@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Diaz</h1>
 <h3 align="center">A passionate Laravel and React developer from Colombia</h3>
 
-- 💬 Ask me about **React, Laravel**
+- 💬 Ask me about **React, Laravel, Node js**
 - Learning node  **
 
 <h3 align="left">Connect with me:</h3>
